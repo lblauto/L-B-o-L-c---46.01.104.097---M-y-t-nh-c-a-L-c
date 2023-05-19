@@ -1,0 +1,32 @@
+D:\LAP TRINH C#\MAYTINH\MAYTINH\bin\Debug\MAYTINH.exe.config
+D:\LAP TRINH C#\MAYTINH\MAYTINH\bin\Debug\MAYTINH.exe
+D:\LAP TRINH C#\MAYTINH\MAYTINH\bin\Debug\MAYTINH.pdb
+D:\LAP TRINH C#\MAYTINH\MAYTINH\obj\Debug\MAYTINH.csproj.AssemblyReference.cache
+D:\LAP TRINH C#\MAYTINH\MAYTINH\obj\Debug\MAYTINH.csproj.SuggestedBindingRedirects.cache
+D:\LAP TRINH C#\MAYTINH\MAYTINH\obj\Debug\MAYTINH.csproj.CoreCompileInputs.cache
+D:\LAP TRINH C#\MAYTINH\MAYTINH\obj\Debug\MAYTINH.exe
+D:\LAP TRINH C#\MAYTINH\MAYTINH\obj\Debug\MAYTINH.pdb
+C:\Users\LBL\Downloads\MAYTINH\MAYTINH\bin\Debug\MAYTINH.exe.config
+C:\Users\LBL\Downloads\MAYTINH\MAYTINH\bin\Debug\MAYTINH.exe
+C:\Users\LBL\Downloads\MAYTINH\MAYTINH\bin\Debug\MAYTINH.pdb
+C:\Users\LBL\Downloads\MAYTINH\MAYTINH\obj\Debug\MAYTINH.csproj.AssemblyReference.cache
+C:\Users\LBL\Downloads\MAYTINH\MAYTINH\obj\Debug\MAYTINH.csproj.SuggestedBindingRedirects.cache
+C:\Users\LBL\Downloads\MAYTINH\MAYTINH\obj\Debug\MAYTINH.csproj.CoreCompileInputs.cache
+C:\Users\LBL\Downloads\MAYTINH\MAYTINH\obj\Debug\MAYTINH.exe
+C:\Users\LBL\Downloads\MAYTINH\MAYTINH\obj\Debug\MAYTINH.pdb
+C:\Users\LBL\Downloads\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\bin\Debug\MAYTINH.exe.config
+C:\Users\LBL\Downloads\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\bin\Debug\MAYTINH.exe
+C:\Users\LBL\Downloads\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\bin\Debug\MAYTINH.pdb
+C:\Users\LBL\Downloads\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\Máy tính của Lộc.csproj.AssemblyReference.cache
+C:\Users\LBL\Downloads\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\Máy tính của Lộc.csproj.SuggestedBindingRedirects.cache
+C:\Users\LBL\Downloads\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\Máy tính của Lộc.csproj.CoreCompileInputs.cache
+C:\Users\LBL\Downloads\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\MAYTINH.exe
+C:\Users\LBL\Downloads\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\MAYTINH.pdb
+E:\Nam 3 HK 1\LT Win\Máy tính bỏ túi\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\bin\Debug\MAYTINH.exe.config
+E:\Nam 3 HK 1\LT Win\Máy tính bỏ túi\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\bin\Debug\MAYTINH.exe
+E:\Nam 3 HK 1\LT Win\Máy tính bỏ túi\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\bin\Debug\MAYTINH.pdb
+E:\Nam 3 HK 1\LT Win\Máy tính bỏ túi\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\Máy tính của Lộc.csproj.AssemblyReference.cache
+E:\Nam 3 HK 1\LT Win\Máy tính bỏ túi\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\Máy tính của Lộc.csproj.SuggestedBindingRedirects.cache
+E:\Nam 3 HK 1\LT Win\Máy tính bỏ túi\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\Máy tính của Lộc.csproj.CoreCompileInputs.cache
+E:\Nam 3 HK 1\LT Win\Máy tính bỏ túi\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\MAYTINH.exe
+E:\Nam 3 HK 1\LT Win\Máy tính bỏ túi\Lê Bảo Lộc - 46.01.104.097 - Máy tính của Lộc\Máy tính của Lộc\obj\Debug\MAYTINH.pdb
